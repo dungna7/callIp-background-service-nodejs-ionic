@@ -2,3 +2,14 @@ cai nay goi video dc,
 chay dc service ngam duoi background khi app bi tat
 de them plugin vao thi chay lenh
 ionic cordova plungin add --link
+
+để khi app bắt được cuộc gọi đến thì chạy lên kể cả khi màn hình đang khóa thì có thể dùng cái 
+backgound plugin , trên github có người viết rồi
+hoặc không thì tròn plugin của mình viết thêm mấy cái xử lí nữa, có khi dùng luôn đỡ phải viết
+
+
+trên ios hình như có rồi link đây <a>https://github.com/leecrossley/cordova-plugin-background-task</a>,
+tìm hiểu xem có app line được không. 
+công việc còn lại thì làm sao phải call được thoại ,video
+gửi tin nhắn
+
